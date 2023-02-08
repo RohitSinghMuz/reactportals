@@ -1,11 +1,10 @@
 import React from "react";
-import Home from "./Home";
+import Postdata from "./Postdata";
 
 const App = () => {
   return (
     <>
-      <h2>App Page</h2>
-      <Home />
+      <Postdata />
     </>
   );
 };
