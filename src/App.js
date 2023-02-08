@@ -1,10 +1,10 @@
 import React from "react";
-import Postdata from "./Postdata";
+import Httpget from "./Httpget";
 
 const App = () => {
   return (
     <>
-      <Postdata />
+      <Httpget />
     </>
   );
 };
